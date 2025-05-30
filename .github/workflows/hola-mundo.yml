@@ -1,9 +1,7 @@
 name: Run Kotlin Hello World Script
 
-on:
+on: 
   push:
-    branches:
-      - aprendiendo-github-actions
   workflow_dispatch: 
 
 jobs:
